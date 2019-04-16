@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AutoLevelHomework\AutoLevelHomework\obj\Debug\AutoLevelHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AutoLevelHomework\AutoLevelHomework\obj\Debug\AutoLevelHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AutoLevelHomework\AutoLevelHomework\bin\Debug\AutoLevelHomework.exe.config
+C:\Users\User\source\repos\AutoLevelHomework\AutoLevelHomework\bin\Debug\AutoLevelHomework.exe
+C:\Users\User\source\repos\AutoLevelHomework\AutoLevelHomework\bin\Debug\AutoLevelHomework.pdb
+C:\Users\User\source\repos\AutoLevelHomework\AutoLevelHomework\obj\Debug\AutoLevelHomework.exe
+C:\Users\User\source\repos\AutoLevelHomework\AutoLevelHomework\obj\Debug\AutoLevelHomework.pdb
